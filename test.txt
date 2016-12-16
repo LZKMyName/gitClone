@@ -1,3 +1,4 @@
 Hello Git
 this is the dev branch change
 confilct solved
+test merge --no--ff
